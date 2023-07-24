@@ -1,0 +1,4 @@
+{"TGToken": "paste_your_tg_token",
+  "OpenAIToken": "paste_your_openai_key",
+  "dblink": "your_database_name"
+}
